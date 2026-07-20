@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii" font-size="10px">
+<tspan x="15" y="35">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="51">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠈⠻⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="67">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡆⠀⠀⠈⠻⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="83">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡇⠀⠀⠀⠀⠈⠙⢷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="99">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠙⢷⣄⠀⣿⣷⣄⢀⣤⡀⠀⠀⢀⣀⣤⣶⡶⠿⢛⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="115">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣬⠻⣿⡟⣿⣶⠾⠛⠋⠉⠀⠀⢠⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="131">⠀⢀⣸⡿⣶⣄⣀⠀⠀⠀⠀⠸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣧⣤⣴⣶⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="147">⢿⣟⠛⠋⠀⠉⠛⠿⣦⣄⠀⠀⣿⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣯⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣄</tspan>
+<tspan x="15" y="163">⢀⣽⡷⠀⠀⠀⠀⠀⠈⠙⠻⣶⣿⣤⣶⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⢀⣨⡿⠋</tspan>
+<tspan x="15" y="179">⠘⠻⢷⣦⡀⠀⠀⠀⠀⠀⠀⢠⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡿⠋⠀⠀</tspan>
+<tspan x="15" y="195">⠀⠀⠀⠹⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⠟⠉⠀⠀⠀⠀</tspan>
+<tspan x="15" y="211">⠀⠀⠀⠀⠹⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⠟⠁⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="227">⠀⠀⠀⠀⠀⠹⣷⣠⡿⠀⠀⠀⠀⠀⠀⢠⣿⠃⠘⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="243">⠀⠀⠀⠀⠀⠀⣸⡟⠀⠀⠀⠀⡀⠀⠀⣾⡇⠀⠀⢹⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⠾⠀⠀⠀⠀⠀⣿⣄⣴⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="259">⠀⠀⠀⠀⠀⢀⣿⠁⠀⠀⠀⠀⣿⡄⠀⢹⣧⠀⠀⢸⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⡶⠟⠋⣿⠀⠀⠀⠀⠀⠀⢸⣿⣁⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="275">⠀⠀⠀⠀⠀⢸⡏⠀⠀⠀⠀⠀⣿⢿⣄⠀⠙⢷⣤⣄⣈⣿⡀⠀⠀⠀⠀⠀⠀⢀⣤⣾⠟⠋⠀⠀⢸⡿⠀⠀⠀⠀⠀⠀⢸⡏⠉⠉⠙⠛⠛⠛⠛⠛⠷⣶⣶⡄⠀⠀</tspan>
+<tspan x="15" y="291">⠀⠀⠀⠀⠀⣾⡇⠀⠀⠀⠀⠀⣿⠈⠻⣦⣄⠀⠈⠉⠉⠉⠁⠀⠀⠀⠀⣠⣾⠟⠙⠏⠀⠀⠀⣠⡿⠁⠀⠀⠀⠀⠀⠀⠸⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢻⣶⡄⠀</tspan>
+<tspan x="15" y="307">⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⣿⡄⢠⡿⠛⢷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠉⠙⠿⢶⣦⣴⣶⠾⠋⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣸⡟⠋⠁⠀</tspan>
+<tspan x="15" y="323">⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠘⣿⣼⠇⠀⠀⠈⣽⠟⠷⢶⣤⣤⣀⣀⡀⠀⠀⠀⠀⠀⣀⣀⣤⣾⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⠾⠛⠛⠻⠃⠀⠀⠀</tspan>
+<tspan x="15" y="339">⠀⠀⠀⠀⠀⣸⣇⠀⠀⠀⠀⠀⠀⠈⠻⣦⣀⠀⢰⡿⠀⠀⠀⠀⠉⠙⣿⠟⠛⠛⠛⢻⡿⠛⢫⣿⠃⠀⠀⠀⠀⠀⢠⣿⣀⣠⣴⡶⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="355">⠀⠀⠀⠀⣼⡿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠈⠻⢷⣾⣇⠀⠀⠀⠀⠀⢠⣿⠀⠀⠀⠀⣼⣇⣴⠟⠁⠀⠀⠀⠀⠀⠀⣼⠟⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="371">⠀⠀⠀⢰⡿⠀⠹⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⢶⣦⣤⣄⣼⣇⣀⣠⣤⣴⠿⠛⠁⠀⠀⠀⠀⠀⠀⠀⣼⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="387">⠀⠀⠀⢸⡇⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="403">⠀⠀⠀⠸⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢶⣦⣄⣾⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="419">⠀⠀⠀⠀⠻⣷⡀⠀⠀⠀⠘⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="435">⠀⠀⠀⠀⠀⠙⠻⣷⣤⡀⢀⣈⣻⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="451">⠀⠀⠀⠀⠀⠀⠀⠈⢿⣧⣮⣿⣿⣿⠙⠿⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="467">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠁⠀⠀⠀⠀⠉⠛⣿⣷⣶⣶⣶⣶⡶⢶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="483">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣷⣄⣼⡟⠀⠀⠻⣧⠀⢀⠊⠢⠔⢱⡀⡀⣠⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="499">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠁⠀⠀⠀⢻⣇⠀⠀⠀⠀⠀⢀⣾⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="515">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣷⣤⣤⣴⡾⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+</text>
+<text x="450" y="30" fill="#c9d1d9">
+<tspan x="450" y="30">redd2213@github</tspan> -——————————————————————————————————-—-
+<tspan x="450" y="50" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">20 years, 8 months</tspan>
+<tspan x="450" y="70" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">IntelliJ IDEA, VSCode</tspan>
+<tspan x="450" y="110" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Java, Python, C++, C#</tspan>
+<tspan x="450" y="130" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">HTML, PHP</tspan>
+<tspan x="450" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">English, Romanian</tspan>
+<tspan x="450" y="170" class="cc">. </tspan>
+<tspan x="450" y="190" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Videogames & Modding, Music, HEMA</tspan>
+<tspan x="450" y="90" class="cc">. </tspan>
+<tspan x="450" y="110" class="cc">. </tspan>
+<tspan x="450" y="310">- Contact</tspan> -————————————————————————————————————————-—-
+<tspan x="450" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">anghel.radu000@gmail.com</tspan>
+<tspan x="450" y="350" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">sev3redd</tspan>
+<tspan x="450" y="450">- GitHub Stats</tspan> -———————————————————————————————————-—-
+<tspan x="450" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">8</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">1</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">7</tspan>
+<tspan x="450" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">123</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">4</tspan>
+</text>
+</svg>
