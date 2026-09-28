@@ -51,7 +51,7 @@ text, tspan {white-space: pre;}
 </text>
 <text x="450" y="30" fill="#24292f">
 <tspan x="450" y="30">redd2213@github</tspan> -——————————————————————————————————-—-
-<tspan x="450" y="50" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">20 years, 8 months</tspan>
+<tspan x="450" y="50" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">21 years</tspan>
 <tspan x="450" y="70" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">IntelliJ IDEA, VSCode</tspan>
 <tspan x="450" y="90" class="cc">. </tspan>
 <tspan x="450" y="110" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Java, Python, C++, C#</tspan>
@@ -63,6 +63,6 @@ text, tspan {white-space: pre;}
 <tspan x="450" y="350" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">sev3redd</tspan>
 <tspan x="450" y="450">- GitHub Stats</tspan> -———————————————————————————————————-—-
 <tspan x="450" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">8</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">1</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">7</tspan>
-<tspan x="450" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">123</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">4</tspan>
+<tspan x="450" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">145</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">4</tspan>
 </text>
 </svg>
